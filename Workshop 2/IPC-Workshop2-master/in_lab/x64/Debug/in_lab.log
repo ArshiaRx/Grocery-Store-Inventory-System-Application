@@ -1,0 +1,13 @@
+﻿  cashRegister.c
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(24,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(25,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(29,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(34,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(35,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(39,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(40,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(44,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\cashRegister.c(45,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  in_lab.vcxproj -> C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\x64\Debug\in_lab.exe

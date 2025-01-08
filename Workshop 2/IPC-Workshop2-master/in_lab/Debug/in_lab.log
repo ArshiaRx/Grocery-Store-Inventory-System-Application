@@ -1,0 +1,12 @@
+﻿  cashRegister.c
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(13): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(8): warning C4101: 'Nickels': unreferenced local variable
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(8): warning C4101: 'Quarters': unreferenced local variable
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(8): warning C4101: 'Dimes': unreferenced local variable
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(8): warning C4101: 'Pennies': unreferenced local variable
+c:\users\user\desktop\school works\york stuff\ipc 144\semester2\workshop 2\ipc-workshop2-master\in_lab\cashregister.c(15): warning C4700: uninitialized local variable 'Loonies' used
+  in_lab.vcxproj -> C:\Users\User\Desktop\School works\York Stuff\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\Debug\in_lab.exe
+  in_lab.vcxproj -> C:\Users\User\Desktop\School works\York Stuff\IPC 144\Semester2\Workshop 2\IPC-Workshop2-master\in_lab\Debug\in_lab.pdb (Full PDB)
