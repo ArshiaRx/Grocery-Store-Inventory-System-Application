@@ -1,0 +1,15 @@
+﻿  bookstore_app_in_lab.c
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 8\ipc-workshop8-master\in_lab\bookstore_app_in_lab.c(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 8\ipc-workshop8-master\in_lab\bookstore_app_in_lab.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 8\ipc-workshop8-master\in_lab\bookstore_app_in_lab.c(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 8\ipc-workshop8-master\in_lab\bookstore_app_in_lab.c(88): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 8\ipc-workshop8-master\in_lab\bookstore_app_in_lab.c(91): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 8\ipc-workshop8-master\in_lab\bookstore_app_in_lab.c(119): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  ws8.vcxproj -> C:\Users\Owner\Desktop\S@yorkU\IPC 144\Semester2\Workshop 8\IPC-Workshop8-master\in_lab\Debug\ws8.exe
+  ws8.vcxproj -> C:\Users\Owner\Desktop\S@yorkU\IPC 144\Semester2\Workshop 8\IPC-Workshop8-master\in_lab\Debug\ws8.pdb (Full PDB)

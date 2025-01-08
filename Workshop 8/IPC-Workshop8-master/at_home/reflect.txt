@@ -1,0 +1,20 @@
+Name: Arshia Rahim
+Workshop: 8
+Section: SJJ
+Date: 2017/03/24
+
+1) when passing an array to a function it is by address because that's easier
+in later time and you dont need to declare everything again you just giving
+the address to it, and we can use pointers to make this step easier for addressing
+a function.
+
+2) Functions with an array parameter are usually complemented with an additional 
+parameter to show the size and the elements that it can hold to let the function
+and statement know about it.S
+
+
+3) Some of the function "const" been used for array pperameters because they have 
+a constant value and dont need to be changed in later time and thats why we declare 
+the value as const in the first place.
+
+Thank you
