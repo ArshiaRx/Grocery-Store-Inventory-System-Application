@@ -1,0 +1,24 @@
+Name: Arshia Rahim
+Workshop: 7
+Section: SJJ
+Student ID: 112142161
+
+1) The advantage of passing the value through function is that it's
+
+much easier and it will help you to hold the value in the function prameter 
+
+and wont get anyone confused.
+
+2) Dereference is to access the things to a pointer points which lets
+
+you declares integer by pointers and also lets to address them in later
+
+functions. Ex: int p* = &i
+
+3) What is stored in pointer variable is the integers and the address
+
+of that file which lets you transfer the value of that specific
+
+variable to another integers in later functions and statements.
+
+Thank you

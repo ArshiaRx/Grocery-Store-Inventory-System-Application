@@ -1,0 +1,12 @@
+﻿  phone_app_in_lab.c
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 7\ipc-workshop7-master\in_lab\phone_app_in_lab.c(19): warning C4244: '=': conversion from 'const __int64' to 'int', possible loss of data
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 7\ipc-workshop7-master\in_lab\phone_app_in_lab.c(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 7\ipc-workshop7-master\in_lab\phone_app_in_lab.c(75): warning C4477: 'scanf' : format string '%lld' requires an argument of type '__int64 *', but variadic argument 1 has type 'int *'
+  c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 7\ipc-workshop7-master\in_lab\phone_app_in_lab.c(75): note: consider using '%d' in the format string
+  c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 7\ipc-workshop7-master\in_lab\phone_app_in_lab.c(75): note: consider using '%Id' in the format string
+  c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 7\ipc-workshop7-master\in_lab\phone_app_in_lab.c(75): note: consider using '%I32d' in the format string
+c:\users\owner\desktop\s@yorku\ipc 144\semester2\workshop 7\ipc-workshop7-master\in_lab\phone_app_in_lab.c(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  in_lab.vcxproj -> C:\Users\Owner\Desktop\S@yorkU\IPC 144\Semester2\Workshop 7\IPC-Workshop7-master\in_lab\Debug\in_lab.exe
+  in_lab.vcxproj -> C:\Users\Owner\Desktop\S@yorkU\IPC 144\Semester2\Workshop 7\IPC-Workshop7-master\in_lab\Debug\in_lab.pdb (Full PDB)
