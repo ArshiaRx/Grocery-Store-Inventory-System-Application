@@ -1,0 +1,22 @@
+Name: Arshia Rahim
+Workshop: 6
+Project name: Rental2.c (vehicle Rental)
+
+1- Function is basically when the program transfer a contorl bettween 
+one another. When this control is transfered to another function we 
+say that it calls the other function. A function needs a type function
+and return value, function identifier also it need parenthese-enclosed list
+that receive from caller.
+
+2- We called each function twice like the porotype and implement and 
+thats because in one function we declare it and in other function
+we give the calculation if is needed for example in addpositive we
+let the program know that for that specific identifier it have to 
+claculate something with other thing and give the answer by that 
+identifier. Same with subtractPositive.
+
+3- We send and recieve data from function calling for example we 
+say main(void) with a parenthese which at the end which
+we say return 0; with a parenthese-enclosed.
+
+Done :)
