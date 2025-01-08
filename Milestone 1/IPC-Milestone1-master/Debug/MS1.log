@@ -1,0 +1,10 @@
+﻿  144_ms1.c
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 1\IPC-Milestone1-master\144_ms1.c(55,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 1\IPC-Milestone1-master\144_ms1.c(60,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 1\IPC-Milestone1-master\144_ms1.c(84,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 1\IPC-Milestone1-master\144_ms1.c(89,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 1\IPC-Milestone1-master\144_ms1.c(116,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 1\IPC-Milestone1-master\144_ms1.c(122,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  144_ms1_tester.c
+  Generating Code...
+  MS1.vcxproj -> C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 1\IPC-Milestone1-master\Debug\MS1.exe
