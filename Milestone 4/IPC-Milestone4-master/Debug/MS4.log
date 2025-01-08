@@ -1,0 +1,3 @@
+﻿  144_ms4.c
+144_ms4_tester.obj : error LNK2005: _main already defined in 144_ms4.obj
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Milestone 4\IPC-Milestone4-master\Debug\MS4.exe : fatal error LNK1169: one or more multiply defined symbols found

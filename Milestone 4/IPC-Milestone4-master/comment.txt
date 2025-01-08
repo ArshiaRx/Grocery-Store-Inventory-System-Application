@@ -1,0 +1,46 @@
+//comments
+//Arshia Rahim
+//I would like to submit my final Assembly by choing "short" because
+I believe I've done all the milestones even though I've got some help
+with some logics
+
+I've got some help from my friends and learning centre for few logics to get the milestones done and
+they are:
+
+totalAfterTax
+line308 - totalInventoryPrice = (item.price)*((double)item.quantity);
+line312 - totalInventoryPrice = (item.price*(double)item.quantity) + ((item.price*(double)item.quantity)*TAX);
+
+Item itemEntry
+line332 - scanf(" %20[^\n]", item.name);
+line342 - item.sku = sku;
+
+listItems
+line408 - displayItem(item[counter], LINEAR);
+line409 - grandTototal += totalAfterTax(item[counter]);
+
+search
+line434 - if(locateItem(item, NoOfRecs, s_SKU, &i))
+line436 - displayItem(item[i], FORM);
+
+updateItem
+line449 - item = itemEntry(itemptr->sku);
+line453 - *itemptr = item;
+
+AddItem 
+line481 - item[*NoOfRecs] = newItem; 
+line482 - (*NoOfRecs)++;
+
+addOrUpdateItem
+line500 - if(locateItem(item, *NoofRecs, t_SKU, &i))
+
+adjustQuantity
+line532 - n = getIntLimited(0, MAX_QTY - item[i].quantity);
+line542 - item[i].quantity = n + item[i].quantity;
+line567 - if(islowQuantity(item[i]))
+
+saveItem
+line583 - fprintf(dataFile, "%d,%d,%d,%.2lf,%d,%s\n", item.sku, item.quantity, item.minQuantity, item.pricem item.isTAxed, item.name);
+
+loadItems
+line631 - temps = loadItem(&item[i], fp);
