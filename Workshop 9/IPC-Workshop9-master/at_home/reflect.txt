@@ -1,0 +1,9 @@
+//Arshia Rahim
+//Worshop: 9
+//Section: SJJ
+//201/04/09
+
+1) The possible return value for readrecords will be only 5 and 0, and that shows how many element can be in a row.
+
+2) The "r" will show read, the "w" will represent write and the a+ will show that you have access to see the content of 
+file.

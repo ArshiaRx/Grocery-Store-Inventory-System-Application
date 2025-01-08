@@ -1,0 +1,10 @@
+﻿  bookstore_v2_in_lab.c
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(47,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(100,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(151,34): warning C4047: '==': 'Book *' differs in levels of indirection from 'int'
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(151,34): warning C4047: 'function': 'Book *' differs in levels of indirection from 'int'
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(151,30): warning C4024: 'readRecord': different types for formal and actual parameter 2
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(147,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(166,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\bookstore_v2_in_lab.c(137): warning C4716: 'searchInventory': must return a value
+  in_lab.vcxproj -> C:\Users\Arshi\source\repos\IPC 144\Semester2\Workshop 9\IPC-Workshop9-master\in_lab\Debug\in_lab.exe
