@@ -1,0 +1,49 @@
+//Name : Arshia Rahim
+//Student ID : 112142161
+//Section: SMM
+
+Workshop 3 - Reflect
+
+1) Name all the iteration constructs?
+
+- while
+
+- do while 
+
+- For
+
+2) Explain the difference between a "do while" and a "while"
+
+loop?
+
+The difference between "while" and "do while" is that in 
+
+"while" the construct executes its sequence as long as the 
+
+test condition is true but in "do while" the construct 
+
+executes its sequence at least one and continues executing 
+
+as long as the test condition is true.
+
+3) What is a conditional expression?
+
+The conditional selection constructs is shorthand for the
+
+alternative path construct. This ternary expression 
+
+combines the condition and two sub-expressions using? :
+
+operator
+
+If the condition is true, the expression evalutes to the 
+
+operand between ? and : . If the condirtion is false the,
+
+expression evalutes to the operand. If the operands in a 
+
+conditional expression are themselves expressions, the
+ 
+conditonal expression only evalutes the operand identified 
+
+by the condition.

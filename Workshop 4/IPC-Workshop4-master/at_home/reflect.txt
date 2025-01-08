@@ -1,0 +1,25 @@
+IPC144
+Teacher: Ian.Tipson
+Name: Arshia Rahim
+Student ID: 112142161
+User ID: arahim5
+Workshop: 4
+1) Why do the arrays in this program have to be declared to hold 10 elements?
+
+We want the arrays to be declared because we want the maximum temperature of 9
+and arrays hold 9 but we always have to hold one number above which will be 10 elements.
+
+2) What are the advantages and disadvantages of using matching arrays?
+
+Advantages: 1) Helps to hold the key and helps to keep the value by using parrallel array.
+ 	    2) Helps to identify the identifier and type and also it can tell the size of identifier.
+
+Disadvantages: 1) Can't make the arrays as a group.
+	       2) Can"t use it to declare everything as a group like struct.
+
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+
+The at home part was hard for me and the part was hard for me was the part where we should get the mean and the part the program should exit, but I figured the exiting point 
+by searching up in internet and for the mean part I got a mentor in learning center but it was a good workshop In total.
+
+Done :)
